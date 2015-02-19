@@ -23,7 +23,7 @@ A command-line script to open the GitHub page, or website for a repository.
 Put the bash script in `~/bin/` and make sure that folder's in your PATH.
 
 ```sh
-curl -o ~/bin/git-open https://raw.githubusercontent.com/paulirish/git-open/master/git-open
+curl -o ~/bin/git-open https://raw.githubusercontent.com/pusherman/git-open/master/git-open
 chmod +x ~/bin/git-open
 ```
 
